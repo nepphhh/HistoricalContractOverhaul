@@ -6,7 +6,7 @@ License: CC-BY-NC-SA-4.0
 
 Written by Anton Hengst (Nepphhh).
 
-# Dependancies
+## Dependancies
 _Note: Never overwrite a folder. Always remove & replace! If you don't know how to install mods from GitHub, please read [this very short guide](CC-BY-NC-SA-4.0)._
 
  * Kerbalism folder from [Kerbalism](https://github.com/Kerbalism/Kerbalism).
@@ -16,14 +16,14 @@ _Note: Never overwrite a folder. Always remove & replace! If you don't know how 
    * [for KSP v1.8.1](https://github.com/Kerbalism/KerbalismContracts)
  * [RP-1 with AvionicsCheckParameter](https://github.com/nepphhh/RP-0/tree/AvionicsCheckParameter).
 
-# Contents
+## Contents
 This is a work in progress. Currently contains the following:
 
-## Sounding Rockets
+### Sounding Rockets
 Almost done, needs some testing of SoundingDownrange.
 
-## X-Planes
+### X-Planes
 Complete!
 
-## Early Satellites
+### Early Satellites
 Just has First Orbit for now.
