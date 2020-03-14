@@ -14,13 +14,18 @@ _Note: Never overwrite a folder. Always remove & replace! If you don't know how 
  * KerbalismContracts (choose the appropiate version):
    * [for KSP v1.7.3](https://github.com/nepphhh/KerbalismContracts)
    * [for KSP v1.8.1](https://github.com/Kerbalism/KerbalismContracts)
- * [RP-1 with AvionicsCheckParameter](https://github.com/nepphhh/RP-0/tree/AvionicsCheckParameter).
+ * Update your RP-1 (choose the appropiate version):
+   * [for KSP v1.7.3](https://github.com/KSP-RO/RP-0)
+   * [for KSP v1.8.1](https://github.com/KSP-RO/RP-0/tree/1.8-TEST)
+   * _Note: if you intend to play with budgets, you will need to make an empty folder in your GameData called `HistoricalBudgets`._
+   * [for KSP v1.7.3, with quarterly budgets](https://github.com/nepphhh/RP-0/tree/QuarterlyBudgetsCompile)
+   * [for KSP v1.8.1, with quarterly budgets](https://github.com/nepphhh/RP-0/tree/1.8-QuarterlyBudgetsCompile)
 
 ## Contents
 This is a work in progress. Currently contains the following:
 
 ### Sounding Rockets
-Almost done, needs some testing of SoundingDownrange.
+Complete!
 
 ### X-Planes
 Complete!
