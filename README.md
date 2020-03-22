@@ -20,6 +20,8 @@ _Note: Never overwrite a folder. Always remove & replace! If you don't know how 
    * _Note: if you intend to play with budgets, you will need to make an empty folder in your GameData called `HistoricalBudgets`._
    * [for KSP v1.7.3, with quarterly budgets](https://github.com/nepphhh/RP-0/tree/QuarterlyBudgetsCompile)
    * [for KSP v1.8.1, with quarterly budgets](https://github.com/nepphhh/RP-0/tree/1.8-QuarterlyBudgetsCompile)
+ 
+Also don't forget to actually install HCO after you've got the dependancies straightened out ;)
 
 ## Contents
 This is a work in progress. Currently contains the following:
