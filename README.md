@@ -23,6 +23,11 @@ _Note: Never overwrite a folder. Always remove & replace! If you don't know how 
  
 Also don't forget to actually install HCO after you've got the dependancies straightened out ;)
 
+## Things To Do After Starting Your Career
+
+ * Set KRASH costs to 0.
+ * Set the KCT preset to "HCO".
+
 ## Contents
 This is a work in progress. Currently contains the following:
 
